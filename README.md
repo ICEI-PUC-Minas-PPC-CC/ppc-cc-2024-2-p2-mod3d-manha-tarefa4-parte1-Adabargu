@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Animação Dançando
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,11 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Enrico Machado
 
 ## Professor
 
-- Mestre Yoda
+- Will
 
 # Documentação
 
